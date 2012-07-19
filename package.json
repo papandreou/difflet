@@ -1,10 +1,10 @@
 {
-    "name" : "difflet",
+    "name" : "difflet-papandreou",
     "description" : "colorful diffs for javascript objects",
-    "version" : "0.2.1",
+    "version" : "0.2.1-patch2",
     "repository" : {
         "type" : "git",
-        "url" : "git://github.com/substack/difflet.git"
+        "url" : "git://github.com/papandreou/difflet.git"
     },
     "main" : "index.js",
     "keywords" : [
